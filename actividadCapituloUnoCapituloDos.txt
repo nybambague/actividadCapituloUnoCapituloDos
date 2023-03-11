@@ -50,7 +50,29 @@ amazon, prime y disney +.
 -Facebook
 
 4.	Describir los factores que afectan la calidad de las comunicaciones.
+
+Factores externos: estos factores están relacionados con la complejidad de la red y 
+la cantidad de dispositivos que debe cruzar un mensaje para llegar  a su destino 
+final y los factores que afectan el éxito de la comunicación son por ejemplo la calidad
+de la ruta entre el emisor y el receptor, el número de veces que el mensaje tiene que 
+cambiar de forma, etc.
+Factores internos: están relacionados con la naturaleza del mensaje, los factores que 
+afectan a la comunicación son el tamaño del mensaje, la complejidad y la importancia del mensaje.
+
 5.	Identificar los componentes clave de cualquier red de datos y describir su funcionamiento.
+
+Reglas: estas reglas son las normas o protocolos que especifican la manera en la que se envían
+los mensajes y rigen la manera en la que los mensajes fluyen por la red y cómo se interpretan 
+en los dispositivos de destino.
+
+Medio: es la manera en la que los dispositivos se conectan entre si, la computadora  debe estar
+conectada a una red inalámbrica o con cables.
+
+Mensajes: es la información que viaja a través del medio y todos los mensajes deben ser 
+convertidos a bits antes de ser enviados a su destino.
+
+Dispositivos: son aquellos que se utilizan para efectuar la comunicación entre los elementos .
+
 6.	Responda brevemente, ¿Qué son los datos? ¿Qué es una red de datos? ¿Qué es una red convergente?
 7.	Describir las características de las arquitecturas de red: tolerante a fallas, escalabilidad, calidad del servicio y seguridad. Mostrar sus respectivos ejemplos. 
 8.	Investigar qué son las redes orientadas y no orientadas a la conexión.
