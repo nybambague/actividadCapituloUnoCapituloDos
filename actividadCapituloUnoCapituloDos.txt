@@ -74,8 +74,41 @@ convertidos a bits antes de ser enviados a su destino.
 Dispositivos: son aquellos que se utilizan para efectuar la comunicación entre los elementos .
 
 6.	Responda brevemente, ¿Qué son los datos? ¿Qué es una red de datos? ¿Qué es una red convergente?
+
+Los datos: Los datos son hechos, información y estadísticas que se recopilan y almacenan para su 
+posterior análisis y procesamiento. Los datos pueden ser de diferentes tipos, como textos, números,
+imágenes, videos, audio y cualquier otro formato digital que se pueda almacenar y procesar en una computadora.
+
+Red de datos: poder comunicarse de forma segura en cualquier parte del mundo es muy importante para nuestra 
+vida es por ellos que una red de datos  se le conoce como una  infraestructura cuyo diseño posibilita la 
+transmisión de información a través del intercambio de datos,Las redes de datos admiten la forma en la que 
+vivimos, aprendemos,  jugamos y vivimos, proporcionan la plataforma para los servicios que nos permiten 
+conectarnos en forma local y global.  
+
+Red convergente: o también llamada red multiservicios esta hace referencia a la integración de los servicios
+de voz, datos y videos sobre una sola red y elimina la necesidad de crear y mantener redes separadas.Estas 
+transmiten todos los tipos de comunicación y proporcionan una oportunidad de reducir costos y ofrecer a los 
+usuarios servicios y contenidos con muchas características.
+
 7.	Describir las características de las arquitecturas de red: tolerante a fallas, escalabilidad, calidad del servicio y seguridad. Mostrar sus respectivos ejemplos. 
 8.	Investigar qué son las redes orientadas y no orientadas a la conexión.
+
+Las redes pueden clasificarse en dos tipos: redes orientadas a la conexión y redes no orientadas a la conexión.
+
+Las redes orientadas a la conexión son aquellas que establecen una conexión antes de que pueda transmitirse 
+cualquier información entre dos dispositivos. En este tipo de redes, se establece una ruta de comunicación 
+fiable y se garantiza que los datos se entreguen en el orden correcto. Ejemplos de redes orientadas a la 
+conexión son las redes telefónicas y las redes de computadoras que utilizan el protocolo TCP 
+(Protocolo de Control de Transmisión).
+
+Por otro lado, las redes no orientadas a la conexión son aquellas en las que no se establece una conexión 
+antes de transmitir datos. En este tipo de redes, los datos se envían sin garantía de que lleguen al destino 
+final y pueden llegar en cualquier orden. Ejemplos de redes no orientadas a la conexión son las redes de 
+televisión y las redes de sensores inalámbricos.
+
+En resumen, la principal diferencia entre las redes orientadas y no orientadas a la conexión radica en 
+la forma en que se establece y mantiene la conexión entre dispositivos y la garantía de entrega de los datos.
+
 9.	Describa que es la calidad del servicio y que se necesita para mantener una buena calidad de servicio para las aplicaciones que lo requieren.
 10.	¿Por qué importa la calidad del servicio en una red de datos? 
 
