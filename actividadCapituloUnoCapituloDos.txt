@@ -1,6 +1,5 @@
 FECHA: 10/marzo/2023
-NOMBRE: YOHANA BAMBAGUE DORADO
-		    JUAN JOSE AYALA 
+NOMBRE: YOHANA BAMBAGUE DORADO - JUAN JOSE AYALA 
 CÓDIGO SIMCA: 104616021616 - 104615010809
 
 Preguntas de lectura: Capítulo 1
@@ -10,7 +9,8 @@ Describir el efecto que tienen las redes en nuestra vida cotidiana.
 Las redes en nuestra vida cotidiana han dado un gran efecto positivo, ya que
 gracias a ellas como bien se menciona en la lectura, tenemos acceso a
 innumerables beneficios como lo es la comunicación global e instantánea, ya
-sea con datos en tiempo real que puede tener un gran efecto en las decisiones que tomamos en cuanto a las noticias del dia a dia, clima, tráfico,
+sea con datos en tiempo real que puede tener un gran efecto en las decisiones 
+que tomamos en cuanto a las noticias del dia a dia, clima, tráfico,
 comunicación a través de mensajería instantánea ,por ejemplo whatsapp, y
 videoconferencias, videoclases por ejemplo google meet ya que por la
 situación actual que presentamos en esta pandemia causada por el covid-19
@@ -26,7 +26,29 @@ como entretenimiento por ejemplo plataformas virtuales como netflix,
 amazon, prime y disney +.
 
 2.	Listar las actividades cotidianas que realiza usted utilizando internet
+
+-Utilizar el correo electrónico.
+-usar entornos colaborativos para trabajar en equipo.
+-Llamadas y videoconferencias.
+-Chat
+-Para transferir archivos o información.
+-Utilizar aplicaciones para videojuegos.
+-Escuchar música.
+-Redes sociales.
+-Buscar información necesaria
+-Noticias.
+
 3.	Dar ejemplos de herramientas de comunicación que utiliza o ha utilizado
+
+-Slack
+-Discord
+-Gmail
+-Telegram
+-Whatsapp
+-Instagram
+-Messenger
+-Facebook
+
 4.	Describir los factores que afectan la calidad de las comunicaciones.
 5.	Identificar los componentes clave de cualquier red de datos y describir su funcionamiento.
 6.	Responda brevemente, ¿Qué son los datos? ¿Qué es una red de datos? ¿Qué es una red convergente?
